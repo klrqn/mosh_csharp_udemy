@@ -1,8 +1,4 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HelloWorld
 {
@@ -10,7 +6,9 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello World");
         }
     }
-}
+} 
+
+// https://www.microsoft.com/net/learn/get-started-with-dotnet-tutorial#windowscmd

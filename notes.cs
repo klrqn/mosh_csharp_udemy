@@ -1,4 +1,4 @@
-CLR - compiler so you can compile to different types of computers
+CLR - compiler so you can compile to different types of computers - Common Language Runtime
 
 C vs .NET - .Net is a framework for writing windows applications
 
@@ -7,3 +7,8 @@ Assembly - a container for related namespaces - DLL or EXE
                                               - Dynamically Linked Library
 Application - container for multiple Assemblies.
 
+
+Questions: 
+
+? Solutions Explorer ?
+? New Console Project ?
