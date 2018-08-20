@@ -2,6 +2,7 @@
 
 // C vs .NET - .Net is a framework for writing windows applications
 
+// Interface - Class Template
 // "Namespace" - container for related classes
 // Assembly - a container for related namespaces - DLL or EXE
 //                                               - Dynamically Linked Library
