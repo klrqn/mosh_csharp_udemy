@@ -6,28 +6,40 @@ namespace firstprogram
     {
         static void Main(string[] args)
         {
-            byte number = 1;
-            int count = 10;
-            float totalPrice = 25.50f;
-            char character = 'A';
-            string firstName = "Scott";
-            bool isWorking = true;
+            Console.WriteLine("{0} {1}", byte.MaxValue, byte.MinValue);
 
-            Console.WriteLine(number);
-            System.Console.WriteLine(count);
-            System.Console.WriteLine(totalPrice);
-            System.Console.WriteLine(character);
-            System.Console.WriteLine(firstName);
-            System.Console.WriteLine(isWorking);
+            byte b = 1;
+            int i = b;
 
-            var thisIsEasier = "easier variable naming";
-
-            System.Console.WriteLine(thisIsEasier);
+            System.Console.WriteLine(i); 
 
 
+
+            int n = 1;
+            byte c = (byte) n;
+
+            System.Console.WriteLine(c);
+
+            try
+            {
+                string s = "true";
+                bool boo = Convert.ToBoolean(s);
+                System.Console.WriteLine(boo);
+            }
+            catch (System.Exception)
+            {
+                System.Console.WriteLine("error yo");
+            }
+
+            var number = "1234"; // could use string, but..var is coo
+            // int i = (int) number;
+            int f = Convert.ToInt32(number);
+
+            System.Console.WriteLine(f);
 
         }
     }
 }
 
 // dotnet run
+// ctrl + shift + b (build)
