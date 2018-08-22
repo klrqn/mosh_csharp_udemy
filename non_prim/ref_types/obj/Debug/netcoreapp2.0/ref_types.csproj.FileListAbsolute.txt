@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/ref_types/bin/Debug/netcoreapp2.0/ref_types.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/ref_types/bin/Debug/netcoreapp2.0/ref_types.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/ref_types/bin/Debug/netcoreapp2.0/ref_types.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/ref_types/bin/Debug/netcoreapp2.0/ref_types.dll
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/ref_types/bin/Debug/netcoreapp2.0/ref_types.pdb
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/ref_types/obj/Debug/netcoreapp2.0/ref_types.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/ref_types/obj/Debug/netcoreapp2.0/ref_types.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/ref_types/obj/Debug/netcoreapp2.0/ref_types.dll
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/ref_types/obj/Debug/netcoreapp2.0/ref_types.pdb
