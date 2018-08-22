@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/enums/bin/Debug/netcoreapp2.0/enums.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/enums/bin/Debug/netcoreapp2.0/enums.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/enums/bin/Debug/netcoreapp2.0/enums.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/enums/bin/Debug/netcoreapp2.0/enums.dll
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/enums/bin/Debug/netcoreapp2.0/enums.pdb
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/enums/obj/Debug/netcoreapp2.0/enums.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/enums/obj/Debug/netcoreapp2.0/enums.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/enums/obj/Debug/netcoreapp2.0/enums.dll
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/enums/obj/Debug/netcoreapp2.0/enums.pdb

@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/strings/bin/Debug/netcoreapp2.0/strings.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/strings/bin/Debug/netcoreapp2.0/strings.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/strings/bin/Debug/netcoreapp2.0/strings.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/strings/obj/Debug/netcoreapp2.0/strings.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/strings/obj/Debug/netcoreapp2.0/strings.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/strings/bin/Debug/netcoreapp2.0/strings.dll
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/strings/bin/Debug/netcoreapp2.0/strings.pdb
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/strings/obj/Debug/netcoreapp2.0/strings.dll
+/home/ubuntu/workspace/c#/mosh_cs/non_prim/strings/obj/Debug/netcoreapp2.0/strings.pdb

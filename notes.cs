@@ -19,3 +19,11 @@
 // dotnet new console
 // dotnet restore (not necessary as of .NET 2.0?)
 // dotnet run
+
+
+difference between structs and classes?
+???
+subtle differences - 99% of the time you'll use classes
+"use a structure when you want to define a small lightweight object"
+ie - points(x,y)
+   - rgbColor(r, g, b)

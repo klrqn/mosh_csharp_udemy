@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/enterNumber/bin/Debug/netcoreapp2.0/enterNumber.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/enterNumber/bin/Debug/netcoreapp2.0/enterNumber.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/enterNumber/bin/Debug/netcoreapp2.0/enterNumber.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/enterNumber/bin/Debug/netcoreapp2.0/enterNumber.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/enterNumber/bin/Debug/netcoreapp2.0/enterNumber.pdb
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/enterNumber/obj/Debug/netcoreapp2.0/enterNumber.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/enterNumber/obj/Debug/netcoreapp2.0/enterNumber.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/enterNumber/obj/Debug/netcoreapp2.0/enterNumber.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/enterNumber/obj/Debug/netcoreapp2.0/enterNumber.pdb
