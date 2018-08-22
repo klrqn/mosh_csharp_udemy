@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largerNumber/bin/Debug/netcoreapp2.0/largerNumber.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largerNumber/bin/Debug/netcoreapp2.0/largerNumber.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largerNumber/bin/Debug/netcoreapp2.0/largerNumber.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largerNumber/obj/Debug/netcoreapp2.0/largerNumber.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largerNumber/obj/Debug/netcoreapp2.0/largerNumber.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largerNumber/bin/Debug/netcoreapp2.0/largerNumber.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largerNumber/bin/Debug/netcoreapp2.0/largerNumber.pdb
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largerNumber/obj/Debug/netcoreapp2.0/largerNumber.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largerNumber/obj/Debug/netcoreapp2.0/largerNumber.pdb
