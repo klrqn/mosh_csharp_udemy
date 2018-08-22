@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/bin/Debug/netcoreapp2.0/control_flow.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/bin/Debug/netcoreapp2.0/control_flow.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/bin/Debug/netcoreapp2.0/control_flow.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/obj/Debug/netcoreapp2.0/control_flow.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/obj/Debug/netcoreapp2.0/control_flow.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/bin/Debug/netcoreapp2.0/control_flow.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/bin/Debug/netcoreapp2.0/control_flow.pdb
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/obj/Debug/netcoreapp2.0/control_flow.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/obj/Debug/netcoreapp2.0/control_flow.pdb
