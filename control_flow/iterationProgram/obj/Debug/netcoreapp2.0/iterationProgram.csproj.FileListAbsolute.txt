@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/iterationProgram/bin/Debug/netcoreapp2.0/iterationProgram.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/iterationProgram/bin/Debug/netcoreapp2.0/iterationProgram.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/iterationProgram/bin/Debug/netcoreapp2.0/iterationProgram.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/iterationProgram/obj/Debug/netcoreapp2.0/iterationProgram.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/iterationProgram/obj/Debug/netcoreapp2.0/iterationProgram.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/iterationProgram/bin/Debug/netcoreapp2.0/iterationProgram.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/iterationProgram/bin/Debug/netcoreapp2.0/iterationProgram.pdb
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/iterationProgram/obj/Debug/netcoreapp2.0/iterationProgram.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/iterationProgram/obj/Debug/netcoreapp2.0/iterationProgram.pdb

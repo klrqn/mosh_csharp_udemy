@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/random_class/bin/Debug/netcoreapp2.0/random_class.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/random_class/bin/Debug/netcoreapp2.0/random_class.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/random_class/bin/Debug/netcoreapp2.0/random_class.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/random_class/bin/Debug/netcoreapp2.0/random_class.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/random_class/bin/Debug/netcoreapp2.0/random_class.pdb
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/random_class/obj/Debug/netcoreapp2.0/random_class.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/random_class/obj/Debug/netcoreapp2.0/random_class.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/random_class/obj/Debug/netcoreapp2.0/random_class.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/random_class/obj/Debug/netcoreapp2.0/random_class.pdb
