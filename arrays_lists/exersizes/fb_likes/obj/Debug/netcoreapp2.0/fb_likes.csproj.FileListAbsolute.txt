@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fb_likes/bin/Debug/netcoreapp2.0/fb_likes.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fb_likes/bin/Debug/netcoreapp2.0/fb_likes.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fb_likes/bin/Debug/netcoreapp2.0/fb_likes.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fb_likes/obj/Debug/netcoreapp2.0/fb_likes.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fb_likes/obj/Debug/netcoreapp2.0/fb_likes.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fb_likes/bin/Debug/netcoreapp2.0/fb_likes.dll
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fb_likes/bin/Debug/netcoreapp2.0/fb_likes.pdb
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fb_likes/obj/Debug/netcoreapp2.0/fb_likes.dll
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fb_likes/obj/Debug/netcoreapp2.0/fb_likes.pdb
