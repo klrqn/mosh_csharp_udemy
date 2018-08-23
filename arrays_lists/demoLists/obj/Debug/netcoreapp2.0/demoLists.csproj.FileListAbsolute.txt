@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoLists/bin/Debug/netcoreapp2.0/demoLists.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoLists/bin/Debug/netcoreapp2.0/demoLists.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoLists/bin/Debug/netcoreapp2.0/demoLists.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoLists/obj/Debug/netcoreapp2.0/demoLists.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoLists/obj/Debug/netcoreapp2.0/demoLists.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoLists/bin/Debug/netcoreapp2.0/demoLists.dll
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoLists/bin/Debug/netcoreapp2.0/demoLists.pdb
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoLists/obj/Debug/netcoreapp2.0/demoLists.dll
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoLists/obj/Debug/netcoreapp2.0/demoLists.pdb

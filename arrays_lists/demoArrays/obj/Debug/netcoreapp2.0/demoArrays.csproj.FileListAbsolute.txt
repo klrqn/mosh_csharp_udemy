@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoArrays/bin/Debug/netcoreapp2.0/demoArrays.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoArrays/bin/Debug/netcoreapp2.0/demoArrays.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoArrays/bin/Debug/netcoreapp2.0/demoArrays.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoArrays/bin/Debug/netcoreapp2.0/demoArrays.dll
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoArrays/bin/Debug/netcoreapp2.0/demoArrays.pdb
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoArrays/obj/Debug/netcoreapp2.0/demoArrays.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoArrays/obj/Debug/netcoreapp2.0/demoArrays.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoArrays/obj/Debug/netcoreapp2.0/demoArrays.dll
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/demoArrays/obj/Debug/netcoreapp2.0/demoArrays.pdb
