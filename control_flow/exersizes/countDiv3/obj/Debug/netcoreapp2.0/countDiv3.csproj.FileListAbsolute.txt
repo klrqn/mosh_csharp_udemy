@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/countDiv3/bin/Debug/netcoreapp2.0/countDiv3.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/countDiv3/bin/Debug/netcoreapp2.0/countDiv3.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/countDiv3/bin/Debug/netcoreapp2.0/countDiv3.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/countDiv3/bin/Debug/netcoreapp2.0/countDiv3.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/countDiv3/bin/Debug/netcoreapp2.0/countDiv3.pdb
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/countDiv3/obj/Debug/netcoreapp2.0/countDiv3.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/countDiv3/obj/Debug/netcoreapp2.0/countDiv3.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/countDiv3/obj/Debug/netcoreapp2.0/countDiv3.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/countDiv3/obj/Debug/netcoreapp2.0/countDiv3.pdb

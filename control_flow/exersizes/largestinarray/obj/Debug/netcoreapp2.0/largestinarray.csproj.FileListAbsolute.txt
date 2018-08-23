@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largestinarray/bin/Debug/netcoreapp2.0/largestinarray.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largestinarray/bin/Debug/netcoreapp2.0/largestinarray.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largestinarray/bin/Debug/netcoreapp2.0/largestinarray.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largestinarray/obj/Debug/netcoreapp2.0/largestinarray.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largestinarray/obj/Debug/netcoreapp2.0/largestinarray.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largestinarray/bin/Debug/netcoreapp2.0/largestinarray.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largestinarray/bin/Debug/netcoreapp2.0/largestinarray.pdb
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largestinarray/obj/Debug/netcoreapp2.0/largestinarray.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/largestinarray/obj/Debug/netcoreapp2.0/largestinarray.pdb

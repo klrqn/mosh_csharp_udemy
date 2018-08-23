@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/guess_random/bin/Debug/netcoreapp2.0/guess_random.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/guess_random/bin/Debug/netcoreapp2.0/guess_random.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/guess_random/bin/Debug/netcoreapp2.0/guess_random.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/guess_random/obj/Debug/netcoreapp2.0/guess_random.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/guess_random/obj/Debug/netcoreapp2.0/guess_random.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/guess_random/bin/Debug/netcoreapp2.0/guess_random.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/guess_random/bin/Debug/netcoreapp2.0/guess_random.pdb
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/guess_random/obj/Debug/netcoreapp2.0/guess_random.dll
+/home/ubuntu/workspace/c#/mosh_cs/control_flow/exersizes/guess_random/obj/Debug/netcoreapp2.0/guess_random.pdb
