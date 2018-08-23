@@ -1,0 +1,11 @@
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/timespan/bin/Debug/netcoreapp2.1/timespan.deps.json
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/timespan/bin/Debug/netcoreapp2.1/timespan.runtimeconfig.json
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/timespan/bin/Debug/netcoreapp2.1/timespan.runtimeconfig.dev.json
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/timespan/bin/Debug/netcoreapp2.1/timespan.dll
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/timespan/bin/Debug/netcoreapp2.1/timespan.pdb
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/timespan/obj/Debug/netcoreapp2.1/timespan.csprojAssemblyReference.cache
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/timespan/obj/Debug/netcoreapp2.1/timespan.csproj.CoreCompileInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/timespan/obj/Debug/netcoreapp2.1/timespan.AssemblyInfoInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/timespan/obj/Debug/netcoreapp2.1/timespan.AssemblyInfo.cs
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/timespan/obj/Debug/netcoreapp2.1/timespan.dll
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/timespan/obj/Debug/netcoreapp2.1/timespan.pdb

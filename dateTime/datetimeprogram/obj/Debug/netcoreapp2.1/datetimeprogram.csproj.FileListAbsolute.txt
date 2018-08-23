@@ -1,0 +1,11 @@
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/datetimeprogram/bin/Debug/netcoreapp2.1/datetimeprogram.deps.json
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/datetimeprogram/bin/Debug/netcoreapp2.1/datetimeprogram.runtimeconfig.json
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/datetimeprogram/bin/Debug/netcoreapp2.1/datetimeprogram.runtimeconfig.dev.json
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/datetimeprogram/bin/Debug/netcoreapp2.1/datetimeprogram.dll
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/datetimeprogram/bin/Debug/netcoreapp2.1/datetimeprogram.pdb
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/datetimeprogram/obj/Debug/netcoreapp2.1/datetimeprogram.csprojAssemblyReference.cache
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/datetimeprogram/obj/Debug/netcoreapp2.1/datetimeprogram.csproj.CoreCompileInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/datetimeprogram/obj/Debug/netcoreapp2.1/datetimeprogram.AssemblyInfoInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/datetimeprogram/obj/Debug/netcoreapp2.1/datetimeprogram.AssemblyInfo.cs
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/datetimeprogram/obj/Debug/netcoreapp2.1/datetimeprogram.dll
+/home/johndoe/code/c_sharp/mosh_udemy/dateTime/datetimeprogram/obj/Debug/netcoreapp2.1/datetimeprogram.pdb
