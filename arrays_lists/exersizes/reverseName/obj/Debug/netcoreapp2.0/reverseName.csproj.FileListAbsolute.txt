@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/reverseName/bin/Debug/netcoreapp2.0/reverseName.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/reverseName/bin/Debug/netcoreapp2.0/reverseName.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/reverseName/bin/Debug/netcoreapp2.0/reverseName.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/reverseName/bin/Debug/netcoreapp2.0/reverseName.dll
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/reverseName/bin/Debug/netcoreapp2.0/reverseName.pdb
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/reverseName/obj/Debug/netcoreapp2.0/reverseName.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/reverseName/obj/Debug/netcoreapp2.0/reverseName.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/reverseName/obj/Debug/netcoreapp2.0/reverseName.dll
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/reverseName/obj/Debug/netcoreapp2.0/reverseName.pdb
