@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/list_smallest3/bin/Debug/netcoreapp2.0/list_smallest3.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/list_smallest3/bin/Debug/netcoreapp2.0/list_smallest3.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/list_smallest3/bin/Debug/netcoreapp2.0/list_smallest3.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/list_smallest3/obj/Debug/netcoreapp2.0/list_smallest3.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/list_smallest3/obj/Debug/netcoreapp2.0/list_smallest3.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/list_smallest3/bin/Debug/netcoreapp2.0/list_smallest3.dll
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/list_smallest3/bin/Debug/netcoreapp2.0/list_smallest3.pdb
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/list_smallest3/obj/Debug/netcoreapp2.0/list_smallest3.dll
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/list_smallest3/obj/Debug/netcoreapp2.0/list_smallest3.pdb
