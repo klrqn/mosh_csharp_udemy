@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/listofNumbers/bin/Debug/netcoreapp2.0/listofNumbers.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/listofNumbers/bin/Debug/netcoreapp2.0/listofNumbers.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/listofNumbers/bin/Debug/netcoreapp2.0/listofNumbers.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/listofNumbers/bin/Debug/netcoreapp2.0/listofNumbers.dll
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/listofNumbers/bin/Debug/netcoreapp2.0/listofNumbers.pdb
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/listofNumbers/obj/Debug/netcoreapp2.0/listofNumbers.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/listofNumbers/obj/Debug/netcoreapp2.0/listofNumbers.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/listofNumbers/obj/Debug/netcoreapp2.0/listofNumbers.dll
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/listofNumbers/obj/Debug/netcoreapp2.0/listofNumbers.pdb

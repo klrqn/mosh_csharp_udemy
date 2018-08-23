@@ -23,7 +23,7 @@ namespace fiveSortedNums
             numbers.Sort();
             
             foreach (var n in numbers)
-                Console.Write(" {0}, ", n);
+                Console.Write(" {0}, " n);
         }
     }
 }
