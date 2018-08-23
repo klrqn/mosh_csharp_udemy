@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fiveSortedNums/bin/Debug/netcoreapp2.0/fiveSortedNums.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fiveSortedNums/bin/Debug/netcoreapp2.0/fiveSortedNums.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fiveSortedNums/bin/Debug/netcoreapp2.0/fiveSortedNums.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fiveSortedNums/obj/Debug/netcoreapp2.0/fiveSortedNums.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fiveSortedNums/obj/Debug/netcoreapp2.0/fiveSortedNums.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fiveSortedNums/bin/Debug/netcoreapp2.0/fiveSortedNums.dll
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fiveSortedNums/bin/Debug/netcoreapp2.0/fiveSortedNums.pdb
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fiveSortedNums/obj/Debug/netcoreapp2.0/fiveSortedNums.dll
+/home/ubuntu/workspace/c#/mosh_cs/arrays_lists/exersizes/fiveSortedNums/obj/Debug/netcoreapp2.0/fiveSortedNums.pdb
