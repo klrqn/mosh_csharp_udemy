@@ -27,7 +27,7 @@ int j = Convert.ToInt32(s); <- prefer, returns 0
 int i = 1234
 string s = i.ToString();
 string t = i.ToString("C"); $1234
-string t = i.ToString("C0";) $1234
+string t = i.ToString("C0";) $1234 // 1 for one decimal, 0 for no decimals.
 c or C currency
 d or D decimal 
 e or E Exponential

@@ -1,0 +1,11 @@
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/tryitout/bin/Debug/netcoreapp2.1/tryitout.deps.json
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/tryitout/bin/Debug/netcoreapp2.1/tryitout.runtimeconfig.json
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/tryitout/bin/Debug/netcoreapp2.1/tryitout.runtimeconfig.dev.json
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/tryitout/bin/Debug/netcoreapp2.1/tryitout.dll
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/tryitout/bin/Debug/netcoreapp2.1/tryitout.pdb
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/tryitout/obj/Debug/netcoreapp2.1/tryitout.csprojAssemblyReference.cache
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/tryitout/obj/Debug/netcoreapp2.1/tryitout.csproj.CoreCompileInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/tryitout/obj/Debug/netcoreapp2.1/tryitout.AssemblyInfoInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/tryitout/obj/Debug/netcoreapp2.1/tryitout.AssemblyInfo.cs
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/tryitout/obj/Debug/netcoreapp2.1/tryitout.dll
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/tryitout/obj/Debug/netcoreapp2.1/tryitout.pdb
