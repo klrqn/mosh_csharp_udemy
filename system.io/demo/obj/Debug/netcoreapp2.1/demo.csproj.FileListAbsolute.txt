@@ -1,0 +1,11 @@
+/home/johndoe/code/c_sharp/mosh_udemy/system.io/demo/bin/Debug/netcoreapp2.1/demo.deps.json
+/home/johndoe/code/c_sharp/mosh_udemy/system.io/demo/bin/Debug/netcoreapp2.1/demo.runtimeconfig.json
+/home/johndoe/code/c_sharp/mosh_udemy/system.io/demo/bin/Debug/netcoreapp2.1/demo.runtimeconfig.dev.json
+/home/johndoe/code/c_sharp/mosh_udemy/system.io/demo/bin/Debug/netcoreapp2.1/demo.dll
+/home/johndoe/code/c_sharp/mosh_udemy/system.io/demo/bin/Debug/netcoreapp2.1/demo.pdb
+/home/johndoe/code/c_sharp/mosh_udemy/system.io/demo/obj/Debug/netcoreapp2.1/demo.csprojAssemblyReference.cache
+/home/johndoe/code/c_sharp/mosh_udemy/system.io/demo/obj/Debug/netcoreapp2.1/demo.csproj.CoreCompileInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/system.io/demo/obj/Debug/netcoreapp2.1/demo.AssemblyInfoInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/system.io/demo/obj/Debug/netcoreapp2.1/demo.AssemblyInfo.cs
+/home/johndoe/code/c_sharp/mosh_udemy/system.io/demo/obj/Debug/netcoreapp2.1/demo.dll
+/home/johndoe/code/c_sharp/mosh_udemy/system.io/demo/obj/Debug/netcoreapp2.1/demo.pdb
