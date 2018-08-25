@@ -33,3 +33,21 @@ d or D decimal
 e or E Exponential
 f or F Fixed Point
 h or H Hexadecimal
+
+// STRINGBUILDER
+
+var builder = new StringBuilder("hello world")
+builder.Append('-', 10);
+builder.AppendLine()
+builder.Replace('-', '+');
+builder.Remove(0, 10);
+
+builder.Insert(0, new string('-', 10)); // 0 for beginning of existing string
+builder[0] // access index yada yada
+
+// chain append methods
+builder.Append('hello', 10)
+        .AppendLine()
+        .Append('world', 10)
+        .Replace('-', '__');
+

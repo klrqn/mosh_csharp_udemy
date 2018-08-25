@@ -1,0 +1,11 @@
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/summarizingText/obj/Debug/netcoreapp2.1/summarizingText.csprojAssemblyReference.cache
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/summarizingText/obj/Debug/netcoreapp2.1/summarizingText.csproj.CoreCompileInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/summarizingText/obj/Debug/netcoreapp2.1/summarizingText.AssemblyInfoInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/summarizingText/obj/Debug/netcoreapp2.1/summarizingText.AssemblyInfo.cs
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/summarizingText/bin/Debug/netcoreapp2.1/summarizingText.deps.json
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/summarizingText/bin/Debug/netcoreapp2.1/summarizingText.runtimeconfig.json
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/summarizingText/bin/Debug/netcoreapp2.1/summarizingText.runtimeconfig.dev.json
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/summarizingText/bin/Debug/netcoreapp2.1/summarizingText.dll
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/summarizingText/bin/Debug/netcoreapp2.1/summarizingText.pdb
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/summarizingText/obj/Debug/netcoreapp2.1/summarizingText.dll
+/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/summarizingText/obj/Debug/netcoreapp2.1/summarizingText.pdb

@@ -25,8 +25,9 @@ namespace tryitout
             var newName = fullName.Replace("Scott", "Scottie Pippen Yo");
             System.Console.WriteLine(newName);
 
-            if (String.IsNullOrEmpty(" "))
+            if (String.IsNullOrEmpty(" ".Trim()))
                 System.Console.WriteLine("invalid String");
+                
         }
     }
 }

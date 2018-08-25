@@ -1,3 +1,5 @@
+﻿using System.Collections.Generic;
+
 Arrays vs List
 Arrays are fixed size
 Lists are dynamic size
