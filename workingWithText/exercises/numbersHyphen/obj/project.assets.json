@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Coding\\c#\\Mosh\\Intro\\mosh_csharp_udemy\\workingWithText\\StringBuilder\\StringBuilder.csproj",
-      "projectName": "StringBuilder",
-      "projectPath": "d:\\Coding\\c#\\Mosh\\Intro\\mosh_csharp_udemy\\workingWithText\\StringBuilder\\StringBuilder.csproj",
+      "projectUniqueName": "D:\\Coding\\c#\\Mosh\\Intro\\mosh_csharp_udemy\\workingWithText\\exercises\\numbersHyphen\\numbersHyphen.csproj",
+      "projectName": "numbersHyphen",
+      "projectPath": "D:\\Coding\\c#\\Mosh\\Intro\\mosh_csharp_udemy\\workingWithText\\exercises\\numbersHyphen\\numbersHyphen.csproj",
       "packagesPath": "C:\\Users\\sbb\\.nuget\\packages\\",
-      "outputPath": "d:\\Coding\\c#\\Mosh\\Intro\\mosh_csharp_udemy\\workingWithText\\StringBuilder\\obj\\",
+      "outputPath": "D:\\Coding\\c#\\Mosh\\Intro\\mosh_csharp_udemy\\workingWithText\\exercises\\numbersHyphen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

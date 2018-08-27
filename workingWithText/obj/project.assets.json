@@ -681,28 +681,30 @@
     ]
   },
   "packageFolders": {
-    "/home/johndoe/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\sbb\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/workingWithText.csproj",
+      "projectUniqueName": "d:\\Coding\\c#\\Mosh\\Intro\\mosh_csharp_udemy\\workingWithText\\workingWithText.csproj",
       "projectName": "workingWithText",
-      "projectPath": "/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/workingWithText.csproj",
-      "packagesPath": "/home/johndoe/.nuget/packages/",
-      "outputPath": "/home/johndoe/code/c_sharp/mosh_udemy/workingWithText/obj/",
+      "projectPath": "d:\\Coding\\c#\\Mosh\\Intro\\mosh_csharp_udemy\\workingWithText\\workingWithText.csproj",
+      "packagesPath": "C:\\Users\\sbb\\.nuget\\packages\\",
+      "outputPath": "d:\\Coding\\c#\\Mosh\\Intro\\mosh_csharp_udemy\\workingWithText\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/johndoe/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\sbb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
