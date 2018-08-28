@@ -1,0 +1,11 @@
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/constructors/obj/Debug/netcoreapp2.1/constructors.csprojAssemblyReference.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/constructors/obj/Debug/netcoreapp2.1/constructors.csproj.CoreCompileInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/constructors/obj/Debug/netcoreapp2.1/constructors.AssemblyInfoInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/constructors/obj/Debug/netcoreapp2.1/constructors.AssemblyInfo.cs
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/constructors/bin/Debug/netcoreapp2.1/constructors.deps.json
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/constructors/bin/Debug/netcoreapp2.1/constructors.runtimeconfig.json
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/constructors/bin/Debug/netcoreapp2.1/constructors.runtimeconfig.dev.json
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/constructors/bin/Debug/netcoreapp2.1/constructors.dll
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/constructors/bin/Debug/netcoreapp2.1/constructors.pdb
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/constructors/obj/Debug/netcoreapp2.1/constructors.dll
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/constructors/obj/Debug/netcoreapp2.1/constructors.pdb

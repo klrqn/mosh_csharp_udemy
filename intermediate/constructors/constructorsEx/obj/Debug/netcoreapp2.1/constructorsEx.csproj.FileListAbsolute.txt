@@ -1,0 +1,4 @@
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/constructors/constructorsEx/obj/Debug/netcoreapp2.1/constructorsEx.csprojAssemblyReference.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/constructors/constructorsEx/obj/Debug/netcoreapp2.1/constructorsEx.csproj.CoreCompileInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/constructors/constructorsEx/obj/Debug/netcoreapp2.1/constructorsEx.AssemblyInfoInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/constructors/constructorsEx/obj/Debug/netcoreapp2.1/constructorsEx.AssemblyInfo.cs

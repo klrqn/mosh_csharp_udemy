@@ -1,0 +1,11 @@
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/classes/codeEx/bin/Debug/netcoreapp2.1/codeEx.deps.json
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/classes/codeEx/bin/Debug/netcoreapp2.1/codeEx.runtimeconfig.json
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/classes/codeEx/bin/Debug/netcoreapp2.1/codeEx.runtimeconfig.dev.json
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/classes/codeEx/bin/Debug/netcoreapp2.1/codeEx.dll
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/classes/codeEx/bin/Debug/netcoreapp2.1/codeEx.pdb
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/classes/codeEx/obj/Debug/netcoreapp2.1/codeEx.csprojAssemblyReference.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/classes/codeEx/obj/Debug/netcoreapp2.1/codeEx.csproj.CoreCompileInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/classes/codeEx/obj/Debug/netcoreapp2.1/codeEx.AssemblyInfoInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/classes/codeEx/obj/Debug/netcoreapp2.1/codeEx.AssemblyInfo.cs
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/classes/codeEx/obj/Debug/netcoreapp2.1/codeEx.dll
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/classes/codeEx/obj/Debug/netcoreapp2.1/codeEx.pdb
