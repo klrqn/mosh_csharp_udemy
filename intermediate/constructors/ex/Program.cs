@@ -12,6 +12,12 @@ namespace constructors
 
             System.Console.WriteLine(customer.Id);
             System.Console.WriteLine(customer.Name);
+
+            var customer2 = new Customer(1234, "john");
+            System.Console.WriteLine(customer2.Id);
+            System.Console.WriteLine(customer2.Name);
+
+            
         }
     }
 }
