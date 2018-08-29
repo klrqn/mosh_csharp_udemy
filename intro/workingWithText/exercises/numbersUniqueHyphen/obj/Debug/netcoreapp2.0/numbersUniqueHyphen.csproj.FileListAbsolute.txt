@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/numbersUniqueHyphen/bin/Debug/netcoreapp2.0/numbersUniqueHyphen.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/numbersUniqueHyphen/bin/Debug/netcoreapp2.0/numbersUniqueHyphen.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/numbersUniqueHyphen/bin/Debug/netcoreapp2.0/numbersUniqueHyphen.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/numbersUniqueHyphen/obj/Debug/netcoreapp2.0/numbersUniqueHyphen.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/numbersUniqueHyphen/obj/Debug/netcoreapp2.0/numbersUniqueHyphen.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/numbersUniqueHyphen/bin/Debug/netcoreapp2.0/numbersUniqueHyphen.dll
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/numbersUniqueHyphen/bin/Debug/netcoreapp2.0/numbersUniqueHyphen.pdb
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/numbersUniqueHyphen/obj/Debug/netcoreapp2.0/numbersUniqueHyphen.dll
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/numbersUniqueHyphen/obj/Debug/netcoreapp2.0/numbersUniqueHyphen.pdb
