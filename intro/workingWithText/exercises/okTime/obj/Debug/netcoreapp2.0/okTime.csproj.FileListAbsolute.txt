@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/okTime/bin/Debug/netcoreapp2.0/okTime.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/okTime/bin/Debug/netcoreapp2.0/okTime.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/okTime/bin/Debug/netcoreapp2.0/okTime.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/okTime/obj/Debug/netcoreapp2.0/okTime.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/okTime/obj/Debug/netcoreapp2.0/okTime.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/okTime/bin/Debug/netcoreapp2.0/okTime.dll
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/okTime/bin/Debug/netcoreapp2.0/okTime.pdb
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/okTime/obj/Debug/netcoreapp2.0/okTime.dll
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/okTime/obj/Debug/netcoreapp2.0/okTime.pdb
