@@ -1,0 +1,11 @@
+D:\Coding\c#\Mosh\Intro\mosh_csharp_udemy\workingWithText\exercises\numbersHyphen\obj\Debug\netcoreapp2.1\numbersHyphen.csprojAssemblyReference.cache
+D:\Coding\c#\Mosh\Intro\mosh_csharp_udemy\workingWithText\exercises\numbersHyphen\obj\Debug\netcoreapp2.1\numbersHyphen.csproj.CoreCompileInputs.cache
+D:\Coding\c#\Mosh\Intro\mosh_csharp_udemy\workingWithText\exercises\numbersHyphen\obj\Debug\netcoreapp2.1\numbersHyphen.AssemblyInfoInputs.cache
+D:\Coding\c#\Mosh\Intro\mosh_csharp_udemy\workingWithText\exercises\numbersHyphen\obj\Debug\netcoreapp2.1\numbersHyphen.AssemblyInfo.cs
+D:\Coding\c#\Mosh\Intro\mosh_csharp_udemy\workingWithText\exercises\numbersHyphen\bin\Debug\netcoreapp2.1\numbersHyphen.deps.json
+D:\Coding\c#\Mosh\Intro\mosh_csharp_udemy\workingWithText\exercises\numbersHyphen\bin\Debug\netcoreapp2.1\numbersHyphen.runtimeconfig.json
+D:\Coding\c#\Mosh\Intro\mosh_csharp_udemy\workingWithText\exercises\numbersHyphen\bin\Debug\netcoreapp2.1\numbersHyphen.runtimeconfig.dev.json
+D:\Coding\c#\Mosh\Intro\mosh_csharp_udemy\workingWithText\exercises\numbersHyphen\bin\Debug\netcoreapp2.1\numbersHyphen.dll
+D:\Coding\c#\Mosh\Intro\mosh_csharp_udemy\workingWithText\exercises\numbersHyphen\bin\Debug\netcoreapp2.1\numbersHyphen.pdb
+D:\Coding\c#\Mosh\Intro\mosh_csharp_udemy\workingWithText\exercises\numbersHyphen\obj\Debug\netcoreapp2.1\numbersHyphen.dll
+D:\Coding\c#\Mosh\Intro\mosh_csharp_udemy\workingWithText\exercises\numbersHyphen\obj\Debug\netcoreapp2.1\numbersHyphen.pdb
