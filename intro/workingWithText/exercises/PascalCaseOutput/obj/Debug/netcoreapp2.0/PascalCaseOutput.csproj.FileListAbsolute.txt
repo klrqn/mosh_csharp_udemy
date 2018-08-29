@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/PascalCaseOutput/bin/Debug/netcoreapp2.0/PascalCaseOutput.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/PascalCaseOutput/bin/Debug/netcoreapp2.0/PascalCaseOutput.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/PascalCaseOutput/bin/Debug/netcoreapp2.0/PascalCaseOutput.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/PascalCaseOutput/obj/Debug/netcoreapp2.0/PascalCaseOutput.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/PascalCaseOutput/obj/Debug/netcoreapp2.0/PascalCaseOutput.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/PascalCaseOutput/bin/Debug/netcoreapp2.0/PascalCaseOutput.dll
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/PascalCaseOutput/bin/Debug/netcoreapp2.0/PascalCaseOutput.pdb
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/PascalCaseOutput/obj/Debug/netcoreapp2.0/PascalCaseOutput.dll
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/PascalCaseOutput/obj/Debug/netcoreapp2.0/PascalCaseOutput.pdb
