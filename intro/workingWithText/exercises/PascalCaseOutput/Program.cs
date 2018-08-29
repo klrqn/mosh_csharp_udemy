@@ -12,15 +12,21 @@ namespace PascalCaseOutput
             if (String.IsNullOrEmpty(input))
                 return;
             
+            PascalPhrase(input);
+        }
+        
+        static string PascalPhrase(string input)
+        {
             var pascalPhrase = "";
             foreach (var word in input.Split(' '))
             {
-                var pascalWord = char.ToUpper(word[0]) + word.ToLower().Substring(1);
+                var pascalWord = char.ToUpper(word[0])
+                               + word.ToLower().Substring(1);
                 pascalPhrase += pascalWord;
             }
             
-            Console.WriteLine("{0}", pascalPhrase);
-            
+            Console.WriteLine("{0}", pascalPhrase);           
+            return pascalPhrase;
         }
     }
 }
