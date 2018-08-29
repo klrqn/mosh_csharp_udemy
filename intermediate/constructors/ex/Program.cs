@@ -10,6 +10,9 @@ namespace constructors
             customer.Id = 123;
             customer.Name = "scott";
 
+            var order = new Order();
+            customer.Orders.Add(order);
+
             System.Console.WriteLine(customer.Id);
             System.Console.WriteLine(customer.Name);
 
