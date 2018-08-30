@@ -21,7 +21,7 @@ of its constructors
 
 // USING OBJECT INITIALIZATION SYNTAX
 var person = new Person
-{
-    FirstName = "Scott",
-    LastName = "Burton"
-};
+            {
+                FirstName = "Scott",
+                LastName = "Burton"
+            };
