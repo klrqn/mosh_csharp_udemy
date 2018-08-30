@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/fields/fields_ex/bin/Debug/netcoreapp2.0/fields_ex.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/fields/fields_ex/bin/Debug/netcoreapp2.0/fields_ex.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/fields/fields_ex/bin/Debug/netcoreapp2.0/fields_ex.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/fields/fields_ex/obj/Debug/netcoreapp2.0/fields_ex.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/fields/fields_ex/obj/Debug/netcoreapp2.0/fields_ex.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/fields/fields_ex/bin/Debug/netcoreapp2.0/fields_ex.dll
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/fields/fields_ex/bin/Debug/netcoreapp2.0/fields_ex.pdb
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/fields/fields_ex/obj/Debug/netcoreapp2.0/fields_ex.dll
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/fields/fields_ex/obj/Debug/netcoreapp2.0/fields_ex.pdb
