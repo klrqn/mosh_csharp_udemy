@@ -1,0 +1,11 @@
+/home/johndoe/code/c_sharp/mosh_udemy/intro/workingWithText/StringBuilder/bin/Debug/netcoreapp2.1/StringBuilder.deps.json
+/home/johndoe/code/c_sharp/mosh_udemy/intro/workingWithText/StringBuilder/bin/Debug/netcoreapp2.1/StringBuilder.runtimeconfig.json
+/home/johndoe/code/c_sharp/mosh_udemy/intro/workingWithText/StringBuilder/bin/Debug/netcoreapp2.1/StringBuilder.runtimeconfig.dev.json
+/home/johndoe/code/c_sharp/mosh_udemy/intro/workingWithText/StringBuilder/bin/Debug/netcoreapp2.1/StringBuilder.dll
+/home/johndoe/code/c_sharp/mosh_udemy/intro/workingWithText/StringBuilder/bin/Debug/netcoreapp2.1/StringBuilder.pdb
+/home/johndoe/code/c_sharp/mosh_udemy/intro/workingWithText/StringBuilder/obj/Debug/netcoreapp2.1/StringBuilder.csprojAssemblyReference.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intro/workingWithText/StringBuilder/obj/Debug/netcoreapp2.1/StringBuilder.csproj.CoreCompileInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intro/workingWithText/StringBuilder/obj/Debug/netcoreapp2.1/StringBuilder.AssemblyInfoInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intro/workingWithText/StringBuilder/obj/Debug/netcoreapp2.1/StringBuilder.AssemblyInfo.cs
+/home/johndoe/code/c_sharp/mosh_udemy/intro/workingWithText/StringBuilder/obj/Debug/netcoreapp2.1/StringBuilder.dll
+/home/johndoe/code/c_sharp/mosh_udemy/intro/workingWithText/StringBuilder/obj/Debug/netcoreapp2.1/StringBuilder.pdb

@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/vowelCount/bin/Debug/netcoreapp2.0/vowelCount.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/vowelCount/bin/Debug/netcoreapp2.0/vowelCount.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/vowelCount/bin/Debug/netcoreapp2.0/vowelCount.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/vowelCount/obj/Debug/netcoreapp2.0/vowelCount.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/vowelCount/obj/Debug/netcoreapp2.0/vowelCount.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/vowelCount/bin/Debug/netcoreapp2.0/vowelCount.dll
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/vowelCount/bin/Debug/netcoreapp2.0/vowelCount.pdb
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/vowelCount/obj/Debug/netcoreapp2.0/vowelCount.dll
+/home/ubuntu/workspace/c#/mosh_cs/intro/workingWithText/exercises/vowelCount/obj/Debug/netcoreapp2.0/vowelCount.pdb
