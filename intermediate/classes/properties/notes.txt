@@ -1,0 +1,44 @@
+﻿using System;
+
+namespace properties
+{
+    public class Person
+    {
+        private DateTime _birthdate;
+        
+        public void SetBirthdate(DateTime birthdate)
+        {
+            _birthdate = birthdate;
+        }
+        
+        public DateTime GetBirthDate()
+        {
+            return _birthdate;
+        }
+    }
+}
+
+USING PROPERTIES INSTEAD. EASIER TO GET: SET
+
+﻿using System;
+
+namespace properties
+{
+    public class Person
+    {
+        private DateTime _birthdate;
+        
+        public DateTime Birthdate //prp
+        {
+            get { return _birthdate; }
+            set { _birthdate = value; }
+        }
+    }
+}
+
+AUTO IMPLEMENTED PROPERTIES
+
+public class Person
+{
+    public DateTime Birthdate { get; set; }
+}
