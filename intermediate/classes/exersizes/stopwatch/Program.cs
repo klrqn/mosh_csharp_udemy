@@ -1,35 +1,46 @@
-﻿using System;
+using System;
 
 namespace stopwatch
 {
     public class Stopwatch
     {
-        public static bool started { get; set; }
-        public static bool stopped { get; set; }
-        public static DateTime startTime { get; set; }
-        public static DateTime stopTime { get; set; }
+        private bool _started;
+        private bool _stopped;
+        private DateTime _startTime { get; set; }
+        private DateTime _stopTime { get; set; }
         
-        public static void Start()
+        public Stopwatch()
         {
-            if (!started)
+            this._started = false;
+            this._stopped = true;
+        }
+        
+        public void Start()
+        {
+            if (!_started)
             {
-                started = true;
-                stopped = false;
-                startTime = DateTime.Now;
+                Console.WriteLine("Starting...");
+                _started = true;
+                _stopped = false;
+                _startTime = DateTime.Now;
+                Console.WriteLine("Start Time: {0}", _startTime);
             }
-            else if (started == true)
+            else if (_started == true)
                 throw new InvalidOperationException("Cannot Start Stopwatch Again");
         }
         
-        public static void Stop()
+        public void Stop()
         {
-            if (stopped == false)
+            Console.WriteLine("_stopped variable = {0}", _stopped);
+            if (_stopped == false)
             {
-                started = false;
-                stopped = true;
-                stopTime = DateTime.Now;
+                Console.WriteLine("Stopping...");
+                _started = false;
+                _stopped = true;
+                _stopTime = DateTime.Now;
+                Console.WriteLine("Stop Time: {0}", _stopTime);
             }
-            Console.WriteLine("Total Time Between Start and Stop: {0}", stopTime - startTime);
+            Console.WriteLine("Total Time Between Start and Stop: {0}", _stopTime - _startTime);
         }
         
     }
@@ -40,17 +51,17 @@ namespace stopwatch
         {
             
             while (true)
-            {
+            {   var stopwatch = new Stopwatch();
                 Console.Write("Enter \"start\" or \"stop\" (q to quit)... ");
                 var input = Console.ReadLine();
                 if (input.ToLower() == "start")
                 {
-                    Stopwatch.Start();
+                    stopwatch.Start();
                     continue;
                 }
                 else if (input.ToLower() == "stop")
                 {
-                    Stopwatch.Stop();
+                    stopwatch.Stop();
                     continue;
                 }
                 else if (input.ToLower() == "quit" || input.ToLower() == "q")
