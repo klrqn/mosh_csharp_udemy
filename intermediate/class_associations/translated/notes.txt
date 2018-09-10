@@ -1,0 +1,3 @@
+any inheritance relationship can be translated into composition.
+
+this will do that. (inheritance example)
