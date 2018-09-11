@@ -1,0 +1,11 @@
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/inheritance/const_inheritance/bin/Debug/netcoreapp2.1/const_inheritance.deps.json
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/inheritance/const_inheritance/bin/Debug/netcoreapp2.1/const_inheritance.runtimeconfig.json
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/inheritance/const_inheritance/bin/Debug/netcoreapp2.1/const_inheritance.runtimeconfig.dev.json
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/inheritance/const_inheritance/bin/Debug/netcoreapp2.1/const_inheritance.dll
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/inheritance/const_inheritance/bin/Debug/netcoreapp2.1/const_inheritance.pdb
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/inheritance/const_inheritance/obj/Debug/netcoreapp2.1/const_inheritance.csprojAssemblyReference.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/inheritance/const_inheritance/obj/Debug/netcoreapp2.1/const_inheritance.csproj.CoreCompileInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/inheritance/const_inheritance/obj/Debug/netcoreapp2.1/const_inheritance.AssemblyInfoInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/inheritance/const_inheritance/obj/Debug/netcoreapp2.1/const_inheritance.AssemblyInfo.cs
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/inheritance/const_inheritance/obj/Debug/netcoreapp2.1/const_inheritance.dll
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/inheritance/const_inheritance/obj/Debug/netcoreapp2.1/const_inheritance.pdb
