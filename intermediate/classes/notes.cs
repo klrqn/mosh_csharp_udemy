@@ -1,40 +1,19 @@
-// A Class is simply a building block of a software application
+a way to access elelments in a class that represents a list of values
 
-Presentation                =   PostView
-Business Logic / Domain     =   PostView
-Data Access / Persistence   = PostRepository
+var array = new int[5];
+array[0] = 1; //indexer
 
-Inside a Class = DATA / METHODS || FUNCTIONS
+var list = new List<int>();
+list[0] = 1; //indexer
 
-UML - Unified Modified Language - 3 Parts - Name, Attributes, Methods
+why do we need to define an indexer in a class?
 
-An Object is an instance of a class (that resides in memory)
+//example
+var cookie = new HttpCookie();
+cookie.Expire = DateTime.Today.AddDays(5);
 
-// declare a class in C#
-public class Presentation
-{
-    public string Name;
+cookie["name"] = "Scott"; // indexer
+cookie.SetItem("name", "Scott"); // without indexer we have to do this
 
-    public void Introduce()
-    {
-        System.Console.WriteLine("Hi, my name is" + Name);
-    }
-
-    // these do the same thing
-    Person person = new Person();
-    var person = new Person();
-
-    person.Name = "Scott";  // instance member
-    person.Introduce();     // instance member
-}
-// use Pascal Case to name classes in C#
-// use camel Case when naming parameters in C#
-
-Console.WriteLine("HELLO"); // STATIC member
-
-// static members are used to represent concepts that are singleton. DateTime.
-Declaring Static members ===
-public class Person
-{
-    public static int PeopleCount = 0;
-}
+var name = cookie["name"]; // with indexer
+var name = cookie.GetItem("name"); // without, we need to write methods.

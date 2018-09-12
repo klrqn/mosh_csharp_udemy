@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/classes/exersizes/stopwatch/bin/Debug/netcoreapp2.0/stopwatch.deps.json
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/classes/exersizes/stopwatch/bin/Debug/netcoreapp2.0/stopwatch.runtimeconfig.json
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/classes/exersizes/stopwatch/bin/Debug/netcoreapp2.0/stopwatch.runtimeconfig.dev.json
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/classes/exersizes/stopwatch/obj/Debug/netcoreapp2.0/stopwatch.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/classes/exersizes/stopwatch/obj/Debug/netcoreapp2.0/stopwatch.AssemblyInfo.cs
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/classes/exersizes/stopwatch/bin/Debug/netcoreapp2.0/stopwatch.dll
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/classes/exersizes/stopwatch/bin/Debug/netcoreapp2.0/stopwatch.pdb
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/classes/exersizes/stopwatch/obj/Debug/netcoreapp2.0/stopwatch.dll
+/home/ubuntu/workspace/c#/mosh_cs/intermediate/classes/exersizes/stopwatch/obj/Debug/netcoreapp2.0/stopwatch.pdb

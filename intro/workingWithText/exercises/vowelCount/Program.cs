@@ -32,7 +32,7 @@ namespace vowelCount
                 if (c == str[i])
                     count++;
             }
-            Console.WriteLine("{0}", count);
+            // Console.WriteLine("{0}", count);
             return count;
             
         }
