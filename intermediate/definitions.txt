@@ -1,0 +1,6 @@
+encapsulation.
+
+types of relationships
+    inheritance - classes can inherit properties from parents
+    composition - two classes that allows one to contain the other
+

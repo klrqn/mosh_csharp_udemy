@@ -1,0 +1,11 @@
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/class_associations/composition/bin/Debug/netcoreapp2.1/composition.deps.json
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/class_associations/composition/bin/Debug/netcoreapp2.1/composition.runtimeconfig.json
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/class_associations/composition/bin/Debug/netcoreapp2.1/composition.runtimeconfig.dev.json
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/class_associations/composition/bin/Debug/netcoreapp2.1/composition.dll
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/class_associations/composition/bin/Debug/netcoreapp2.1/composition.pdb
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/class_associations/composition/obj/Debug/netcoreapp2.1/composition.csprojAssemblyReference.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/class_associations/composition/obj/Debug/netcoreapp2.1/composition.csproj.CoreCompileInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/class_associations/composition/obj/Debug/netcoreapp2.1/composition.AssemblyInfoInputs.cache
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/class_associations/composition/obj/Debug/netcoreapp2.1/composition.AssemblyInfo.cs
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/class_associations/composition/obj/Debug/netcoreapp2.1/composition.dll
+/home/johndoe/code/c_sharp/mosh_udemy/intermediate/class_associations/composition/obj/Debug/netcoreapp2.1/composition.pdb
